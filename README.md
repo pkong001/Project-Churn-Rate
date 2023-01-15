@@ -22,5 +22,5 @@ In today telecommunication industry, there is a huge competition, on of the chal
   * Diagnostic of result we acquire
 
 
-#### See further information in report and presentation
+#### See further information in [report](https://github.com/pkong001/Project-Churn-Rate/blob/main/Report.pdf) and presentation(https://github.com/pkong001/Project-Churn-Rate/blob/main/Presentation.pptx)
 
