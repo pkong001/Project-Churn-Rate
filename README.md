@@ -21,3 +21,6 @@ In today telecommunication industry, there is a huge competition, on of the chal
 * Test of algorithm
   * Diagnostic of result we acquire
 
+
+#### See further information in report and presentation
+
